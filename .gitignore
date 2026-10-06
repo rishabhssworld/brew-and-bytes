@@ -1,0 +1,4 @@
+# private business data
+supplier-prices.txt
+# log files
+*.log
