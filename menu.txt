@@ -1,0 +1,12 @@
+BREW & BYTES MENU
+=================
+Espresso ....... 3.00
+Americano ...... 3.50
+Latte .......... 4.50
+Cappuccino ..... 4.50
+Mocha .......... 5.00
+Tea ............ 2.50
+Hot Chocolate .. 4.00
+Croissant ...... 3.25
+Muffin ......... 3.00
+Cookie ......... 2.00
