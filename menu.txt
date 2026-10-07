@@ -11,3 +11,5 @@ Croissant ...... 3.25
 Muffin ......... 3.00
 Cookie ......... 2.00
 Seasonal: Pumpkin Spice Latte ..... 5.50
+Iced Latte ..... 5.00
+Lemonade ....... 3.50
